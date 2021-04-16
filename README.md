@@ -1,4 +1,14 @@
 ### Hi there 👋
+My name is **Siddhesh Agarwal** and I am a high school student.
+Few things that interest me are:
+- Coding (I know only Python)
+- Mathematics
+- Science (Physics and Chemistry to be specific)
+- New tech
+
+I am currently working on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects) and am looking for people to contribute to it.
+
+### The Future is Now 🤖
 
 <!--
 **Siddhesh-Agarwal/Siddhesh-Agarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
