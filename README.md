@@ -1,10 +1,9 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a high school student.
-Few things that interest me are:
-- Coding (I know only Python and php)
-- Mathematics
-- Science (Physics and Chemistry to be specific)
-- New tech
+- 🔭 I’m currently working on Web applications (using flask, streamlit) and Machine learning
+- 🌱 I’m currently learning web developement and Machine Learning using Python.
+- 🤔 I’m looking for help with Machine Learning and Deep Learning
+- 💬 Ask me about Python 3
 
 I am currently working on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects) and am looking for people to contribute to it.
 
