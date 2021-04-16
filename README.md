@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a high school student.
 Few things that interest me are:
-- Coding (I know only Python)
+- Coding (I know only Python and php)
 - Mathematics
 - Science (Physics and Chemistry to be specific)
 - New tech
