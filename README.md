@@ -4,7 +4,6 @@ My name is **Siddhesh Agarwal** and I am a high school student.
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
 - 🤔 I’m looking for help with Web Apps.
 - 💬 Ask me about Python 3, Maths.
-- ⚡ Fun fact: Math and Programming go hand-in-hand.
 
 I am currently working on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects) and am looking for people to contribute to it.
 
