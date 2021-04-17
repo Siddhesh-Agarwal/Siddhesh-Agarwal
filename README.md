@@ -1,11 +1,19 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a high school student.
-- 🔭 I’m currently working on Web applications (using flask, streamlit) and Machine learning
+- 🔭 I’m currently working on Web applications (using flask, streamlit) and Machine learning.
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
-- 🤔 I’m looking for help with Machine Learning and Deep Learning
-- 💬 Ask me about Python 3
+- 🤔 I’m looking for help with Web Apps
+- 💬 Ask me about Python 3, Maths
+- 📫 How to reach me: 
+- ⚡ Fun fact: Math and Programming go hand-in-hand.
 
 I am currently working on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects) and am looking for people to contribute to it.
+
+Tech I know:
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 ### The Future is Now 🤖
 
