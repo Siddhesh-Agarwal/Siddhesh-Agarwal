@@ -1,14 +1,15 @@
 ### Hi there 👋
-My name is **Siddhesh Agarwal** and I am a high school student.
-- 🔭 I’m currently working on Web applications and Machine learning.
+My name is **Siddhesh Agarwal** and I am a high school student from India.
+- 🔭 I’m currently working on making a [Gaming Arcade](https://github.com/Siddhesh-Agarwal/Game-Arcade).
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
 - 📫 How to reach me:
   - Gmail: siddhesh.agarwal@gmail.com
   - Protonmail: SiddheshAgarwal@protonmail.com
 - 🤔 I’m looking for help with Web Apps.
+- 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python 3, Maths.
 
-I am currently working on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects) and am looking for people to contribute to it.
+<br><hr><br>
 
 Stuff I know:
 
@@ -34,7 +35,6 @@ Stuff I know:
 
 Here are some ideas to get you started:
 
-- 👯 I’m looking to collaborate on ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
