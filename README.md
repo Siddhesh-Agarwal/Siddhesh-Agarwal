@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a high school student from India.
-- 🔭 I’m currently working on making a [Gaming Arcade](https://github.com/Siddhesh-Agarwal/Game-Arcade).
+- 🔭 I’m currently working on making a [Gaming Arcade](https://github.com/Siddhesh-Agarwal/Game_Arcade).
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
 - 📫 How to reach me:
   - Gmail: siddhesh.agarwal@gmail.com
