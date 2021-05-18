@@ -9,7 +9,7 @@ My name is **Siddhesh Agarwal** and I am a high school student from India.
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python 3, Maths.
 
-<hr><br>
+<hr>
 
 ### Stuff I know:
 
