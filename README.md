@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a student from India.
-- 🔭 I’m currently working on making a [sierra](https://github.com/BrainStormYourWayIn/sierra).
+- 🔭 I’m currently working on making [sierra](https://github.com/BrainStormYourWayIn/sierra).
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
 - 📫 How to reach me:
   - Gmail: siddhesh.agarwal@gmail.com
