@@ -3,8 +3,7 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 - 🔭 I’m currently working on making [sierra](https://github.com/BrainStormYourWayIn/sierra).
 - 🌱 I’m currently learning web developement and Machine Learning using Python.
 - 📫 How to reach me:
-  - Gmail: siddhesh.agarwal@gmail.com
-  - Protonmail: SiddheshAgarwal@protonmail.com
+  - email ID: siddhesh.agarwal@gmail.com
 - 🤔 I’m looking for help with Web Apps.
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python 3, Maths.
