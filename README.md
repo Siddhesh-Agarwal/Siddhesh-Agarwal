@@ -1,5 +1,7 @@
 ### Hi there 👋
 My name is **Siddhesh Agarwal** and I am a student from India.
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
 - 🔭 I’m currently working on making [sierra](https://github.com/BrainStormYourWayIn/sierra).
 - 🌱 I’m currently learning how to use various APIs.
 - 👯 I’m looking to collaborate on Anything.
@@ -11,7 +13,6 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 - ⚡ Fun fact: I love Chess. ♙
 
 <hr>
-
 ### Stuff I know:
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
