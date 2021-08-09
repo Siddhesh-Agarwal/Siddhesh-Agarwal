@@ -3,13 +3,12 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
 
 - 🔭 I’m currently working on making [sierra](https://github.com/BrainStormYourWayIn/sierra).
-- 🌱 I’m currently learning how to use various APIs.
-- 👯 I’m looking to collaborate on Anything.
+- 🌱 I’m currently learning C programming.
+- 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python, STEM or memes.
 - 📫 How to reach me:
   - email ID: siddhesh.agarwal@gmail.com
 <!-- 🤔 I’m looking for help with Nothing yet.-->
-- 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - ⚡ Fun fact: I love Chess. ♙
 
 <hr>
