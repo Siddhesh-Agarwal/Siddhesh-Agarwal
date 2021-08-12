@@ -9,8 +9,8 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 - 📫 How to reach me:
   - email ID: siddhesh.agarwal@gmail.com
 <!-- 🤔 I’m looking for help with Nothing yet.-->
-- ⚡ Fun fact: I love Chess. ♙
-- ⚡ Another fun fact: I have released python libraries:
+- ⚡ Fun fact #0: I love Chess. ♙
+- ⚡ Fun fact #1: I have released python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
 
