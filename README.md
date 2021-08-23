@@ -33,13 +33,15 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 
 <a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=flat-square&logo=Markdown&logoColor=white"></a>
 <a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-0d1017?style=flat-square&logo=LaTeX&logoColor=008080"></a>
-<a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=flat-square&logo=KaTeX&logoColor=2b9895"></a>
+<a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=flat-square"></a>
 
 ### The Future is Now 🤖
 
-<a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal"><img alt="Stackoverflow" src="https://aleen42.github.io/badges/src/stackoverflow.svg"></a>
-<a href="https://github.com/Siddhesh-Agarwal"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://gitlab.com/Siddhesh-Agarwal"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-<a href="https://bitbucket.org/Siddhesh-Agarwal"><img alt="Bitbucket" src="https://img.shields.io/badge/Gitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://github.com/Siddhesh-Agarwal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://gitlab.com/Siddhesh-Agarwal" target="_blank"><img alt="Gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
+<a href="https://bitbucket.org/Siddhesh-Agarwal" target="_blank"><img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052cc?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
+<a href="mailto:siddhesh.agarwal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=D14836"></a>
+<a href="mailto:SiddheshAgarwal@protonmail.com" target="_blank"><img alt="Protonmail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 <img src="https://img.shields.io/github/followers/Siddhesh-Agarwal.svg?style=social&label=Follow&maxAge=2592000">
