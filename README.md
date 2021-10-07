@@ -6,8 +6,10 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 - 🌱 I’m currently learning C programming.
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python, STEM or memes.
-- 📫 How to reach me:
-  - email ID: siddhesh.agarwal@gmail.com
+<details>
+  <summary>📫 How to reach me:</summary>
+    <a href="mailto:siddhesh.agarwal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F14335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</details>
 <!-- 🤔 I’m looking for help with Nothing yet.-->
 <img src="https://img.shields.io/github/followers/Siddhesh-Agarwal.svg?style=social&label=Follow&maxAge=2592000" align="right">
 
