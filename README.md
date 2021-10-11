@@ -37,8 +37,8 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 
 <a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white"></a>
 <a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-0d1017?style=for-the-badge&logo=LaTeX&logoColor=008080"></a>
-
 <a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge">
+
 ### The Future is Now 🤖
 
 <a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank" rel="noopener"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
