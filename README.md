@@ -2,7 +2,7 @@
 My name is **Siddhesh Agarwal** and I am a student from India.
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right">
 
-- 🔭 I’m currently working on making [sierra](https://github.com/BrainStormYourWayIn/sierra).
+- 🔭 I’m currently working on making [matmath](https://github.com/Siddhesh-Agarwal/matmath).
 - 🌱 I’m currently learning C programming.
 - 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
 - 💬 Ask me about Python, STEM or memes.
@@ -37,7 +37,7 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 
 <a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white"></a>
 <a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-0d1017?style=for-the-badge&logo=LaTeX&logoColor=008080"></a>
-<a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge">
+<a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge"></a>
 
 ### The Future is Now 🤖
 
