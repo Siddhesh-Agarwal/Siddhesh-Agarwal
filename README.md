@@ -27,29 +27,27 @@
 </div>
 
 <hr>
+
 ### Stuff I know:
 
-<a><img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white"></a>
-<a><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
-<a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
-<a><img alt="Streamlit" src="https://badgen.net/badge/icon/Streamlit?icon=streamlit.png&label&color=FF4B4B"></a>
-<code><img height=30 src="https://streamlit.io/images/brand/streamlit-mark-color.png"></code>
-
-<a><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-<a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-<a><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
-
-<a><img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white"></a>
-<a><img alt="SQlite" src="https://img.shields.io/badge/SQLite-0f80cc?&style=for-the-badge&logo=sqlite&logoColor=white"></a>
-<a><img alt="SQlite" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white"></a>
-
-<a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white"></a>
-<a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
-<a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge"></a>
-
-<a><img alt="MS Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
-<a><img alt="MS Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
-<a><img alt="MS Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+<div align="center">
+  <a><img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a><img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a>
+  <a><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-red?style=for-the-badge"></a><br>
+  <a><img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a><img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+  <a><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+  <a><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a><br>
+  <a><img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a><img alt="SQlite" src="https://img.shields.io/badge/SQLite-0f80cc?&style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  <a><img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white"></a><br>
+  <a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white"></a>
+  <a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
+  <a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge"></a><br>
+  <a><img alt="MS Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
+  <a><img alt="MS Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
+  <a><img alt="MS Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
+</div>
 
 ### The Future is Now 🤖
