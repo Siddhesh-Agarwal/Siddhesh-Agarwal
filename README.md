@@ -1,5 +1,4 @@
-### Hi there 👋
-My name is **Siddhesh Agarwal** and I am a student from India.
+<h1 align="center">Hey, I am Siddhesh</h1>
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right">
 
 - 🔭 I’m currently working on making [matmath](https://github.com/Siddhesh-Agarwal/matmath).
@@ -41,5 +40,6 @@ My name is **Siddhesh Agarwal** and I am a student from India.
 
 ### The Future is Now 🤖
 
-<a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank" rel="noopener"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://github.com/Siddhesh-Agarwal" target="_blank" rel="noopener"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank" rel="noopener noreferer"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://github.com/Siddhesh-Agarwal" target="_blank" rel="noopener noreferer"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank" rel="noopener noreferer"><img src="https://img.shields.io/badge/-Hackerrank-#EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
