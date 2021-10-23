@@ -5,6 +5,7 @@
   <a href="https://github.com/Siddhesh-Agarwal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <!--a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-#EC866?style=for-the-badge&logo=Hackerrank&logoColor=white"></a-->
 </div>
+<hr>
 
 - 🔭 I’m currently working on my portfolio website.
 
