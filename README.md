@@ -6,9 +6,10 @@
   <!--a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-#EC866?style=for-the-badge&logo=Hackerrank&logoColor=white"></a-->
 </div>
 
-- 🔭 I’m currently working on making [matmath](https://github.com/Siddhesh-Agarwal/matmath).
-- 🌱 I’m currently learning C programming.
-- 👯 I’m looking to collaborate on [Python Projects](https://github.com/Siddhesh-Agarwal/Python-Projects)
+- 🔭 I’m currently working on my portfolio website.
+
+- 🌱 I’m currently learning Data Science with Python.
+<!-- 👯 I’m looking to collaborate on -->
 - 💬 Ask me about Python, STEM or memes.
 
 <details>
