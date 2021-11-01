@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I am Siddhesh</h1>
+<h1 align="center">Hey there, I am Siddhesh</h1>
+<h2 align="center">I am a 1st year CSE student from India!</h2>
 
 <div align="center">
   <a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
@@ -9,21 +10,17 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on my portfolio website.
-
-- 🌱 I’m currently learning Data Science with Python.
-<!-- 👯 I’m looking to collaborate on -->
-- 💬 Ask me about Python, STEM or memes.
-
+- 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
+- 🌱 I’m currently re-learning HTML, CSS and JS.
+- 💬 Ask me anything about Python, STEM and Memes 😉 .
+- ⚡ Fun fact #0: I love Chess. ♙
+- ⚡ Fun fact #1: I have authored python libraries:
+  - [matmath](https://pypi.org/project/matmath/)
+  - [sierra](https://pypi.org/project/sierra/)
 <details>
   <summary>📫 How to reach me:</summary>
     <a href="mailto:siddhesh.agarwal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F14335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </details>
-
-- ⚡ Fun fact #0: I love Chess. ♙
-- ⚡ Fun fact #1: I have released python libraries:
-  - [matmath](https://pypi.org/project/matmath/)
-  - [sierra](https://pypi.org/project/sierra/)
 
 <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180"></a>
