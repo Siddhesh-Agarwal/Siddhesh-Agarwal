@@ -2,11 +2,11 @@
 <h2 align="center">I am a 1st year CSE student from India!</h2>
 
 <div align="center">
-  <a href="https://stackoverflow.com/users/14257886/siddhesh-agarwal" target="_blank"><img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-  <a href="https://github.com/Siddhesh-Agarwal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.hackerearth.com/@siddhesh.agarwal" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
   <a href="https://www.codewars.com/users/Siddhesh-Agarwal" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
+  <a href="https://www.hackerearth.com/@siddhesh.agarwal" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
+  <a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
+  <a href="https://github.com/Siddhesh-Agarwal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  
 </div>
 <hr>
 
@@ -21,6 +21,8 @@
 <details>
   <summary>📫 How to reach me:</summary>
     <a href="mailto:siddhesh.agarwal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-F14335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://twitter.com/Siddhesh0205" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </details>
 
 <div align="center">
