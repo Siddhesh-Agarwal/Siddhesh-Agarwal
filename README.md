@@ -13,10 +13,11 @@
 - 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
 - 🌱 I’m currently re-learning HTML, CSS and JS.
 - 💬 Ask me anything about Python, STEM and Memes 😉 .
-- ⚡ Fun fact #0: I love Chess. ♙
-- ⚡ Fun fact #1: I have authored python libraries:
+- ⚡ Fun Fact #0: I love Chess. ♙
+- ⚡ Fun Fact #1: I have authored python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
+- ⚡ Fun Fact #2: I have completed @Freecodecamps's "Scientific Computing with Python" and "Data Science with Python".
 
 <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180"></a>
