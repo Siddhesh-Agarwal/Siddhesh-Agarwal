@@ -17,7 +17,7 @@
 - ⚡ Fun Fact #1: I have authored python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
-- ⚡ Fun Fact #2: I have completed [@Freecodecamps](https://github.com/freeCodeCamp)'s "Scientific Computing with Python" and "Data Science with Python".
+- ⚡ Fun Fact #2: I have completed [@Freecodecamps](https://github.com/freeCodeCamp)'s "[Scientific Computing with Python](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges)" and "[Data Science with Python](https://github.com/Siddhesh-Agarwal/Data-Analysis-with-Python)".
 
 <div align="center">
   <a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180"></a>
