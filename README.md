@@ -5,7 +5,6 @@
   <a href="https://www.codewars.com/users/Siddhesh-Agarwal" target="_blank"><img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"></a>
   <a href="https://www.hackerearth.com/@siddhesh.agarwal" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
   <a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://github.com/Siddhesh-Agarwal" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <hr>
