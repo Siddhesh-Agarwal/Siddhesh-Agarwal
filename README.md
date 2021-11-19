@@ -43,7 +43,7 @@
   <a><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white"></a>
   <a><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
   <a><img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge"></a>
-  <a><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"><br>
+  <!--a><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"></a--><br>
   <a><img alt="MS Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></a>
   <a><img alt="MS Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"></a>
   <a><img alt="MS Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
