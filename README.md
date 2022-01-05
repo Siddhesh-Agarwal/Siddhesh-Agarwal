@@ -8,21 +8,20 @@
   <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <hr>
+<a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right"></a>
 
 - 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
 - 🌱 I’m currently re-learning HTML, CSS and JS.
 - 💬 Ask me anything about Python, STEM and Memes 😉 .
 - ⚡ Fun Fact #0: I love Chess. ♙
-- ⚡ Fun Fact #1: I have authored python libraries:
+- ⚡ Fun Fact #1: I have authored and co-authored 2 python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
-- ⚡ Fun Fact #2: I have completed [@Freecodecamps](https://github.com/freeCodeCamp)'s "[Scientific Computing with Python](https://github.com/Siddhesh-Agarwal/FreeCodeCamp-Python-Challenges)" and "[Data Science with Python](https://github.com/Siddhesh-Agarwal/Data-Analysis-with-Python)".
+- ⚡ Fun Fact #2: I have competed in 2 hackathons: [Hackbenchers#4]() and [HPE Codewars 2021 - India Edition]()
 
-<div align="center">
-  <a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180"></a>
-  <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language" height="180"></a>
-</div>
 
+<br>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language"></a>
 <hr>
 
 ### Languages and tools I know and have worked with:
