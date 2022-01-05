@@ -17,7 +17,7 @@
 - ⚡ Fun Fact #1: I have authored and co-authored 2 python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
-- ⚡ Fun Fact #2: I have competed in 2 hackathons: [Hackbenchers#4]() and [HPE Codewars 2021 - India Edition]()
+- ⚡ Fun Fact #2: I have competed in 2 hackathons: [Top 5 submissions in Hackbenchers#4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners) and [32nd in HPE Codewars 2021 - India Edition](https://www.codingal.com/competitions/hpe-codewars-2021/leaderboard/)
 
 
 <br>
