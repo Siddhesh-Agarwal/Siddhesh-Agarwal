@@ -43,10 +43,8 @@
   <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="SQlite" src="https://img.shields.io/badge/SQLite-0f80cc?&style=for-the-badge&logo=sqlite&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
-  <br>
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-0d1017?style=for-the-badge&logo=Markdown&logoColor=white">
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white">
-  <img alt="KaTeX" src="https://img.shields.io/badge/-KaTeX-0d1017?style=for-the-badge">
   <br>
   <img alt="MS Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img alt="MS Powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
