@@ -57,9 +57,9 @@
   <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-My laptop:
+<!-- My laptop:
 <div>
   <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white">
   <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-</div>
+</div> -->
