@@ -56,8 +56,9 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
+<hr>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Siddhesh-Agarwal.Siddhesh-Agarwal)
+![Visitor Count](https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg)
 
 <!-- My laptop:
 <div>
