@@ -57,6 +57,8 @@
   <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Siddhesh-Agarwal.Siddhesh-Agarwal)
+
 <!-- My laptop:
 <div>
   <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white">
