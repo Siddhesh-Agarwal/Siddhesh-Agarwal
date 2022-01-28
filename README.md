@@ -21,7 +21,7 @@
 
 
 <br>
-<div>
+<div style="display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhesh-Agarwal&theme=blue-green" alt="Streaks" align="right">
 </div>
