@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <hr>
-<a><img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right">
 
 - 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
 - 🌱 I’m currently re-learning HTML, CSS and JS.
@@ -21,7 +21,10 @@
 
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language">
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhesh-Agarwal&theme=blue-green" alt="Streaks" align="right">
+</div>
 <hr>
 
 ### Languages and tools I know and have worked with:
