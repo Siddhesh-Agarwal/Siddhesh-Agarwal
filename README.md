@@ -62,6 +62,8 @@
 </div>
 <hr>
 
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
+
 ![Visitor Count](https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg)
 
 <!-- My laptop:
