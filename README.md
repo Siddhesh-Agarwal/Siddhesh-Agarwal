@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right">
 
 - 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
-- 🌱 I’m currently re-learning HTML, CSS and JS.
+- 🌱 I’m currently learning JS.
 - 💬 Ask me anything about Python, STEM and Memes 😉 .
 - ⚡ Fun Fact #0: I love Chess. ♙
 - ⚡ Fun Fact #1: I have authored and co-authored 2 python libraries:
