@@ -7,6 +7,7 @@
   <a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.freecodecamp.org/fccbf4327f2-29d6-4ed8-846f-464fcd4a14ca" target="_blank"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
+  <a href="https://siddhesh2003.hashnode.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </div>
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right">
@@ -37,10 +38,12 @@
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white">
   <img alt="PyPI" src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white">
+  <img alt="Conda" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   <br>
+  <img alt="Fast API" src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
   <img alt="MatplotLib" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
   <img alt="NumPy"src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
@@ -63,7 +66,6 @@
   <img alt="mySQl" src="https://img.shields.io/badge/MySQL-4375cc?&style=for-the-badge&logo=mysql&logoColor=white">
   <img alt="PowerShell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
   <img alt="SQlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img alt="Windows terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white">
   <br>
   
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
@@ -71,18 +73,11 @@
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
-  <!--img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
-  <img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"-->
+  <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
+  <!--img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"-->
 </div>
 <hr>
 
 ![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
 
 ![Visitor Count](https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg)
-
-<!-- My laptop:
-<div>
-  <img src="https://img.shields.io/badge/acer%20Aspire%207-83B81A?style=for-the-badge&logo=acer&logoColor=white">
-  <img src="https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white">
- <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-</div> -->
