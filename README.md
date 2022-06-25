@@ -5,7 +5,7 @@
   <a href="https://dev.to/siddhesh_agarwal" target="_blank"><img alt="Dev to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.hackerearth.com/@siddhesh.agarwal" target="_blank"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue"></a>
   <a href="https://www.hackerrank.com/Siddhesh_Agarwal" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/siddhesh-agarwal-1150b1226/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/siddhesh-agarwal/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.freecodecamp.org/fccbf4327f2-29d6-4ed8-846f-464fcd4a14ca" target="_blank"><img alt="FreeCodeCamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white"></a>
   <a href="https://siddhesh2003.hashnode.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </div>
