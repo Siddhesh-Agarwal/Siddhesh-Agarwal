@@ -77,7 +77,7 @@
     <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
     <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
   </div>
-  <hr>
+  <br>
   <div>
     <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true"></a>
   <div> 
