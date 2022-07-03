@@ -1,6 +1,6 @@
 ```markdown
 ╔═══════════════════════ Hey There! ═══════════════════════╗ 🤓 Siddhesh Agarwal
-║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Python expert
+║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Pythonista
 ║ My fields of interest are Artificial Intelligence, Data  ║ ┃   ┣━━ ⭐ Matmath
 ║ Science, Web developement and Cloud.                     ║ ┃   ┗━━ ⭐ Sierra
 ║                                                          ║ ┃
