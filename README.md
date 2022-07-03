@@ -28,7 +28,10 @@
 <br>
 <div style="display: inline-block;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Siddhesh-Agarwal&theme=blue-green" alt="Streaks" align="right">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark">
 </div>
 <hr>
 
@@ -79,7 +82,6 @@
   <img alt="Font Awesome" src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
-  <!--img alt="VSC" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"-->
 </div>
 <hr>
 
