@@ -1,25 +1,21 @@
 <h1 align="center"><src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">Hey there, I am Siddhesh</h1> 
 <h2 align="center">I am a 1st year CSE student from India!</h2>
 
+```markdown
+╔════════════════════════ Hi there ════════════════════════╗ 🤓 Siddhesh Agarwal
+║ I'm a Student, living in Coimbatore, India.              ║ ┣━━ 🐍 Python expert
+║ My fields of interest are Artificial Intelligence, Data  ║ ┃   ┣━━ ⭐ Matmath
+║ Science, Web developement and Cloud.                     ║ ┃   ┗━━ ⭐ Sierra
+║                                                          ║ ┃          
+║ Follow me on @Siddhesh-Agarwal                           ║ ┣━━ 🤖 AI Enthusiast
+╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
+```
+
 <div align="center">
   <a href="https://dev.to/siddhesh_agarwal" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://siddhesh2003.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siddhesh-agarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<hr>
-
-- 🔭 I’m currently working on Nothing.
-- 🌱 I’m currently learning React.js.
-- 💬 Ask me anything about Python, STEM and Memes 😉 .
-- ⚡ Fun Fact #0: I love Chess. ♙
-- ⚡ Fun Fact #1: I have authored/co-authored 2 python libraries:
-  - [matmath](https://pypi.org/project/matmath/)
-  - [sierra](https://pypi.org/project/sierra/)
-<!-- ⚡ Fun Fact #2: I have competed in 3 hackathons: 
-  - ["Top 5 submissions" in Hackbenchers#4](https://www.hackerearth.com/challenges/hackathon/hackbenchers-4/custom-tab/winners/#Winners)
-  - [32nd in HPE Codewars 2021 - India Edition](https://www.codingal.com/competitions/hpe-codewars-2021/leaderboard/)
-  - ["Most Sustainable Hack" at Hack@SKCET](https://github.com/Siddhesh-Agarwal/ProLeafic)-->
-
 <hr>
 
 ### Languages and tools I know and have worked with:
