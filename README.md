@@ -1,4 +1,4 @@
-<h1 align="center"><!-- src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"><--> Hey there, I am Siddhesh</h1> 
+<h1 align="center"><src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">Hey there, I am Siddhesh</h1> 
 <h2 align="center">I am a 1st year CSE student from India!</h2>
 
 <div align="center">
@@ -10,7 +10,6 @@
   <a href="https://siddhesh2003.hashnode.dev/" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
 </div>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&theme=blue-green" alt="GitHub Stats" height="180" align="right">
 
 - 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
 - 🌱 I’m currently learning JS.
@@ -26,8 +25,17 @@
 
 
 <br>
-<div style="display: inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&theme=blue-green" alt="Most used language">
+
+<diV>
+
+  <div align="center">
+    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"></a>
+    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="200"></a>
+  </div>
+  <hr/>
+  <div>
+    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true"></a>
+  <div> 
 </div>
 
 <div align="center">
