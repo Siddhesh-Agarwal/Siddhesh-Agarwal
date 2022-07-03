@@ -23,24 +23,6 @@
   - [32nd in HPE Codewars 2021 - India Edition](https://www.codingal.com/competitions/hpe-codewars-2021/leaderboard/)
   - ["Most Sustainable Hack" at Hack@SKCET](https://github.com/Siddhesh-Agarwal/ProLeafic)-->
 
-
-<br>
-
-<diV>
-
-  <div align="center">
-    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
-    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
-  </div>
-  <hr/>
-  <div>
-    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true"></a>
-  <div> 
-</div>
-<br>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark">
-</div>
 <hr>
 
 ### Languages and tools I know and have worked with:
@@ -91,8 +73,24 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-f05030?&style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitKraken" src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 </div>
+
 <hr>
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=blue-green)
+<div>
+  <div align="center">
+    <a href="#"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
+    <a href="#"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true" height="200"></a>
+  </div>
+  <hr>
+  <div>
+    <a href="#"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true"></a>
+  <div> 
+</div>
+<br>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark">
+</div>
 
-![Visitor Count](https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg)
+<hr>
+
+<img alt="Visitor Count" src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg">
