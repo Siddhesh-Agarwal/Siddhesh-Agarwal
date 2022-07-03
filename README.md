@@ -8,11 +8,11 @@
 </div>
 <hr>
 
-- 🔭 I’m currently working on [Python-Algorithms](https://github.com/Siddhesh-Agarwal/Python-Algorithms).
-- 🌱 I’m currently learning JS.
+- 🔭 I’m currently working on Nothing.
+- 🌱 I’m currently learning React.js.
 - 💬 Ask me anything about Python, STEM and Memes 😉 .
 - ⚡ Fun Fact #0: I love Chess. ♙
-- ⚡ Fun Fact #1: I have authored and co-authored 2 python libraries:
+- ⚡ Fun Fact #1: I have authored/co-authored 2 python libraries:
   - [matmath](https://pypi.org/project/matmath/)
   - [sierra](https://pypi.org/project/sierra/)
 <!-- ⚡ Fun Fact #2: I have competed in 3 hackathons: 
