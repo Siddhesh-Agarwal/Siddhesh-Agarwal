@@ -1,13 +1,10 @@
-<h1 align="center"><src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">Hey there, I am Siddhesh</h1> 
-<h2 align="center">I am a 1st year CSE student from India!</h2>
-
 ```markdown
-╔════════════════════════ Hi there ════════════════════════╗ 🤓 Siddhesh Agarwal
-║ I'm a Student, living in Coimbatore, India.              ║ ┣━━ 🐍 Python expert
+╔═══════════════════════ Hey There! ═══════════════════════╗ 🤓 Siddhesh Agarwal
+║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Python expert
 ║ My fields of interest are Artificial Intelligence, Data  ║ ┃   ┣━━ ⭐ Matmath
 ║ Science, Web developement and Cloud.                     ║ ┃   ┗━━ ⭐ Sierra
-║                                                          ║ ┃          
-║ Follow me on @Siddhesh-Agarwal                           ║ ┣━━ 🤖 AI Enthusiast
+║                                                          ║ ┃
+║ Follow me @Siddhesh-Agarwal                              ║ ┣━━ 🤖 AI Enthusiast
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
 ```
 
