@@ -1,8 +1,8 @@
 ```markdown
 ╔═══════════════════════ Hey There! ═══════════════════════╗ 🤓 Siddhesh Agarwal
 ║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Pythonista
-║ My fields of interest are Artificial Intelligence, Data  ║ ┃   ┣━━ ⭐ Matmath
-║ Science, Web developement and Cloud.                     ║ ┃   ┗━━ ⭐ Sierra
+║ My fields of interest are Machine Learning, NLP, Data    ║ ┃   ┣━━ ⭐ Matmath
+║ Science, Web developement, Game prototypying and Cloud.  ║ ┃   ┗━━ ⭐ Sierra
 ║                                                          ║ ┃
 ║ Follow me @Siddhesh-Agarwal                              ║ ┣━━ 🤖 AI Enthusiast
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
