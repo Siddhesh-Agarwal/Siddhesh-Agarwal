@@ -1,9 +1,10 @@
 ```
 ╔═══════════════════════ Hey There! ═══════════════════════╗ 🤓 Siddhesh Agarwal    
 ║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Pythonista      
-║ My areas of interest are AI, ML, DL, NLP, Data Science,  ║ ┃   ┣━━ ⭐ Matmath     
-║ Web Developement, Cloud computing, Cyber security and    ║ ┃   ┗━━ ⭐ Sierra      
-║ almost every other thing out there.                      ║ ┣━━ 💻 Web development 
+║ My areas of interest are AI, ML, DL, NLP, Data Science,  ║ ┃   ┣━━ ⭐ Cryptmoji     
+║ Web Developement, Cloud computing, Cyber security and    ║ ┃   ┣━━ ⭐ Matmath
+║ almost every other thing out there.                      ║ ┃   ┗━━ ⭐ Sierra      
+║                                                          ║ ┣━━ 💻 Web development 
 ║ Follow me @Siddhesh-Agarwal                              ║ ┣━━ 🤖 AI Enthusiast   
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer 
 ```
