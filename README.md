@@ -85,7 +85,7 @@
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 </div>
 
-<hr>
+___
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
@@ -100,6 +100,10 @@
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark&no-frame=true">
 </div>
 
-<hr>
+___
+
+[![@siddheshagarwal's Holopin board](https://holopin.me/siddheshagarwal)](https://holopin.io/@siddheshagarwal)
+
+___
 
 <img alt="Visitor Count" src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg">
