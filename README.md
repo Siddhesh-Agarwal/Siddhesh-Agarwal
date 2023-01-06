@@ -97,9 +97,9 @@ ___
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
 </div>
 
-<div align="center">
-    <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true">
-</div>
+<!-- <div align="center"> -->
+<!--     <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true"> -->
+<!-- </div> -->
 <br>
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark&no-frame=true">
