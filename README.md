@@ -102,7 +102,7 @@ ___
 <!-- </div> -->
 <br>
 <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=8&theme=onedark&no-frame=true">
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=9&theme=onedark&no-frame=true">
 </div>
 
 ___
