@@ -9,7 +9,7 @@
 ╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
 ```
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+ML+Engineer;I+am+a+DB+Administrator;I+am+a+DevOps+Engineer;I+am+a+Cloud+Architect)
+![Typing SVG](https://readme-typing-svg.demolab.com/?duration=4000&&center=true&&lines=I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+ML+Engineer;I+am+a+DB+Administrator;I+am+a+DevOps+Engineer;I+am+a+Cloud+Architect)
 
 <div align="center">
   <a href="https://dev.to/siddhesh_agarwal" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
