@@ -1,12 +1,12 @@
-```
-╔═══════════════════════ Hey There! ═══════════════════════╗ 🤓 Siddhesh Agarwal
-║ I'm a CSE Student, studying in Coimbatore, India.        ║ ┣━━ 🐍 Pythonista
-║ My areas of interest are AI, ML, DL, NLP, Data Science,  ║ ┃   ┣━━ ⭐ Cryptmoji
-║ Web Developement, Cloud computing, Cyber security and    ║ ┃   ┣━━ ⭐ Matmath
-║ almost every other thing out there.                      ║ ┃   ┗━━ ⭐ Sierra
-║                                                          ║ ┣━━ 💻 Web development
-║ I love Python                                            ║ ┣━━ 🤖 AI Enthusiast
-╚══════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
+```plaintext
+╔════════════════════════ Hey There! ════════════════════════╗ 🤓 Siddhesh Agarwal
+║ I'm a CSE Student, studying in Coimbatore, India.          ║ ┣━━ 🐍 Pythonista
+║ My areas of interest are Deep Learning, NLP, Data Science, ║ ┃   ┣━━ ⭐ Cryptmoji
+║ Web Developement, Cloud computing, Cyber security and      ║ ┃   ┣━━ ⭐ Matmath
+║ almost every other thing out there.                        ║ ┃   ┗━━ ⭐ Sierra
+║                                                            ║ ┣━━ 💻 Web development
+║ I love working with Python and TypeScript                  ║ ┣━━ 🤖 AI Enthusiast
+╚════════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
 ```
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?duration=4000&&center=true&&lines=I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+ML+Engineer;I+am+a+DB+Administrator;I+am+a+DevOps+Engineer;I+am+a+Cloud+Architect) -->
