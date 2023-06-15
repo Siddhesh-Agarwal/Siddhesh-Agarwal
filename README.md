@@ -105,16 +105,16 @@
 ___
 
 <div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200">
+  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
 </div>
-
-<!-- <div align="center"> -->
-<!--     <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Siddhesh-Agarwal&custom_title=Siddhesh%20Agarwal's%20Contribution%20Graph&bg_color=282c34&color=e3be7a&line=FFEEEE&point=bd6168&hide_border=true"> -->
-<!-- </div> -->
-<br>
+<br />
 <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=9&theme=onedark&no-frame=true">
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=5&theme=onedark&no-frame=true" />
+</div>
+<br />
+<div align="center">
+  <img src="https://api.roadmap.sh/v1-badge/wide/6486cda670a3a3d0f097bab6?variant=dark&roadmaps=typescript%2Cpython%2Cbackend%2Cfrontend" alt="roadmap.sh" />
 </div>
 
 ___
