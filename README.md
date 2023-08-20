@@ -112,10 +112,6 @@ ___
 <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=5&theme=onedark&no-frame=true" />
 </div>
-<br />
-<div align="center">
-  <img src="https://api.roadmap.sh/v1-badge/wide/6486cda670a3a3d0f097bab6?variant=dark&roadmaps=typescript%2Cpython%2Cbackend%2Cfrontend" alt="roadmap.sh" />
-</div>
 
 <div align="center">
   <img alt="Siddhesh-Agarwal's GitHub | Stats" src="https://stats.quine.sh/Siddhesh-Agarwal/github?theme=dark" />
