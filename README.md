@@ -20,7 +20,7 @@
 </div>
 <hr>
 
-### Languages and tools I know and have worked with:
+### Languages and tools I know and have worked with
 
 <div align="center">
   <img alt="Python 3" src="https://img.shields.io/badge/Python-37709F?style=for-the-badge&logo=python&logoColor=white" />
