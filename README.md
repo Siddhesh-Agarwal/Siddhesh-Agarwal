@@ -1,12 +1,12 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ 🤓 Siddhesh Agarwal
-║ I'm a CSE Student, studying in Coimbatore, India.          ║ ┣━━ 🐍 Pythonista
+║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 🐍 Pythonista
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Cryptmoji
 ║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┣━━ ⭐ Matmath
-║ every other thing out there.                               ║ ┃   ┗━━ ⭐ Sierra
-║                                                            ║ ┣━━ 💻 App/Web development
-║ I love working with Python and TypeScript                  ║ ┣━━ 🤖 ML Enthusiast
-╚════════════════════════════════════════════════════════════╝ ┗━━ 📘 Technical Writer
+║ every other thing out there. I love working with Python    ║ ┃   ┗━━ ⭐ Sierra
+║ and TypeScript.                                            ║ ┣━━ 💻 App/Web development
+║ Currently building @Centille                               ║ ┣━━ 🤖 ML Engineer
+╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
 <!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?duration=4000&&center=true&&lines=I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+ML+Engineer;I+am+a+DB+Administrator;I+am+a+DevOps+Engineer;I+am+a+Cloud+Architect) -->
