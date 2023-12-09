@@ -1,5 +1,5 @@
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 🤓 Siddhesh Agarwal
+╔════════════════════════ Hey There! ════════════════════════╗ 😎 Siddhesh Agarwal
 ║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 🐍 Pythonista
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Cryptmoji
 ║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┣━━ ⭐ Matmath
