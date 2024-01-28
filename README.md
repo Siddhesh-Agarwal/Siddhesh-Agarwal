@@ -108,9 +108,9 @@ ___
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
 </div>
 <br />
-<div align="center">
+<!-- <div align="center">
   <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=6&theme=onedark&no-frame=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img alt="Siddhesh-Agarwal's GitHub | Stats" src="https://stats.quine.sh/Siddhesh-Agarwal/github?theme=dark" />
