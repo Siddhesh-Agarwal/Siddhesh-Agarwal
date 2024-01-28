@@ -109,7 +109,7 @@ ___
 </div>
 <br />
 <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=5&theme=onedark&no-frame=true" />
+  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=6&theme=onedark&no-frame=true" />
 </div>
 
 <div align="center">
@@ -119,8 +119,6 @@ ___
 
 ___
 
-[![@siddheshagarwal's Holopin board](https://holopin.me/siddheshagarwal)](https://holopin.io/@siddheshagarwal)
-
-___
+<!-- [![@siddheshagarwal's Holopin board](https://holopin.me/siddheshagarwal)](https://holopin.io/@siddheshagarwal) -->
 
 <img alt="Visitor Count" src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg">
