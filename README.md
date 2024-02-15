@@ -1,11 +1,11 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ 😎 Siddhesh Agarwal
 ║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 🐍 Pythonista
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Cryptmoji
-║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┣━━ ⭐ Matmath
-║ every other thing out there. I love working with Python    ║ ┃   ┗━━ ⭐ Sierra
-║ and TypeScript.                                            ║ ┣━━ 💻 App/Web development
-║ Currently building @Centille                               ║ ┣━━ 🤖 ML Engineer
+║                                                            ║ ┃   ┣━━ ⭐ Cryptmoji
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Matmath
+║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ Sierra
+║ every other thing out there. I love working with various   ║ ┣━━ 💻 App/Web development
+║ tools and learning new things.                             ║ ┣━━ 🤖 ML Engineer
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
