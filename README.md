@@ -1,15 +1,13 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 🐍 Pythonista
-║                                                            ║ ┃   ┣━━ ⭐ Backend Development
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┗━━ ⭐ AI/ML/NLP/Generative AI
-║ Web Development, Cloud, Cyber Security and basically       ║ ┣━━ 💻 App/Web development  
+║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 💻 App/Web development
+║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ PHP, Laravel
 ║ every other thing out there. I love working with various   ║ ┣━━ 🔢 Mathematics
-║ tools and learning new things.                             ║ ┣━━ 🤖 ML Engineer
+║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
 ╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
-
-<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?duration=4000&&center=true&&lines=I+am+a+Frontend+Developer;I+am+a+Backend+Developer;I+am+a+ML+Engineer;I+am+a+DB+Administrator;I+am+a+DevOps+Engineer;I+am+a+Cloud+Architect) -->
 
 <div align="center">
   <a href="https://dev.to/siddhesh_agarwal" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
@@ -18,7 +16,8 @@
   <a href="https://www.linkedin.com/in/siddhesh-agarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://linktr.ee/Siddhesh_Agarwal"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
-<hr>
+
+____
 
 ### Languages and tools I know and have worked with
 
@@ -97,10 +96,8 @@ ___
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
 </div>
+
 <br />
-<!-- <div align="center">
-  <img alt="Profile Trophy" src="https://github-profile-trophy.vercel.app/?username=Siddhesh-Agarwal&column=6&theme=onedark&no-frame=true" />
-</div> -->
 
 <div align="center">
   <img alt="Siddhesh-Agarwal's GitHub | Stats" src="https://stats.quine.sh/Siddhesh-Agarwal/github?theme=dark" />
@@ -108,7 +105,5 @@ ___
 </div>
 
 ___
-
-<!-- [![@siddheshagarwal's Holopin board](https://holopin.me/siddheshagarwal)](https://holopin.io/@siddheshagarwal) -->
 
 <img alt="Visitor Count" src="https://profile-counter.glitch.me/Siddhesh-Agarwal/count.svg">
