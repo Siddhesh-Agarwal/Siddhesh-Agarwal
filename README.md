@@ -2,7 +2,7 @@
 ╔════════════════════════ Hey There! ════════════════════════╗ 😎 Siddhesh Agarwal
 ║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 💻 App/Web development
 ║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
 ║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ PHP, Laravel
 ║ every other thing out there. I love working with various   ║ ┣━━ 🔢 Mathematics
 ║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
