@@ -1,12 +1,12 @@
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a CSE Student studying in SKCET, Coimbatore.           ║ ┣━━ 💻 App/Web development
-║                                                            ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Web Development, Cloud, Cyber Security and basically       ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ every other thing out there. I love working with various   ║ ┣━━ 🔢 Mathematics
-║ tools and learning new things.                             ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
-╚════════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
+╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
+║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
+║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,  ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
+║ Web Development, Cloud, Cyber Security and essentially    ║ ┃   ┗━━ ⭐ PHP, Laravel
+║ every other CS thing out there. I love working with       ║ ┣━━ 🔢 Mathematics
+║ various tools and learning new things.                    ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
+╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
 <div align="center">
@@ -14,7 +14,6 @@
   <a href="mailto:siddhesh.agarwal@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://siddhesh2003.hashnode.dev/" target="_blank"><img alt="HashNode" src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/siddhesh-agarwal/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://linktr.ee/Siddhesh_Agarwal"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </div>
 
 ____
@@ -38,7 +37,7 @@ ____
   <br>
   <img alt="DialogFlow" src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" />
   <img alt="HuggingFace" src="https://tinyurl.com/2p9ft7xf" />
-<!--   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /> -->
+  <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
   <img alt="Weigths and Biases" src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white" />
   <br>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,7 +60,6 @@ ____
   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
   <img alt="Xampp" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" />
-
   <br>
   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
