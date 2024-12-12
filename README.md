@@ -92,7 +92,7 @@ ___
 
 <div align="center">
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Siddhesh-Agarwal&show_icons=true&include_all_commits=true&count_private=true&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=10&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddhesh-Agarwal&langs_count=12&layout=compact&theme=onedark&bg_color=282c34&hide_border=true&disable_animations=true" height="200" />
 </div>
 
 <br />
