@@ -4,8 +4,8 @@
 ║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
 ║ My areas of interest are AI/ML, LLMs, Backend and Web     ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
 ║ Development, Cloud, Cyber Security and essentially every  ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ other CS thing out there. Actively looking for an SDE     ║ ┣━━ 🔢 Mathematics
-║ internship.                    ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
+║ other CS thing out there. I am actively looking for an    ║ ┣━━ 🔢 Mathematics
+║ SDE internship (graduation: May 2025).                    ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
 ╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
