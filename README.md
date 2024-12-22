@@ -21,7 +21,7 @@ ____
 ### Languages and tools I know and have worked with
 <p align="center">
   <a href="https://siddhesh-tech.vercel.app/">
-    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,anaconda,django,flask,fastapi,tensorflow,pytorch,sklearn,opencv,html,css,sass,tailwind,bootstrap,jquery,js,ts,vite,react,redux,materialui,nextjs,express,nodejs,bun,deno,php,laravel,c,cpp,cmake,java,spring,go,aws,azure,cloudflare,vercel,nginx,firebase,supabase,mongodb,mysql,postgres,sqlite,redis,git,github,githubactions,gitlab,bitbucket,docker,bash,powershell,neovim,latex,md,postman,linux,matlab">
+    <img alt="My Skills" src="https://skillicons.dev/icons?i=python,anaconda,django,flask,fastapi,tensorflow,pytorch,sklearn,opencv,html,css,htmx,sass,bootstrap,tailwind,jquery,js,ts,vite,react,redux,materialui,nextjs,express,nodejs,bun,deno,php,laravel,go,c,cpp,cmake,java,spring,matlab,mysql,postgres,sqlite,mongodb,redis,aws,azure,cloudflare,vercel,nginx,firebase,supabase,git,github,githubactions,gitlab,docker,bash,powershell,neovim,latex,md,postman,linux">
   </a>
 </p>
 
