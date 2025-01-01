@@ -2,10 +2,10 @@
 ╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
 ║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
 ║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
-║ My areas of interest are AI/ML, LLMs, Backend and Web     ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
-║ Development, Cloud, Cyber Security and essentially every  ║ ┃   ┗━━ ⭐ PHP, Laravel
-║ other CS thing out there. I am actively looking for an    ║ ┣━━ 🔢 Mathematics
-║ SDE role (graduation: May 2025).                          ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
+║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
+║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
+║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
+║                                                           ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
 ╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
