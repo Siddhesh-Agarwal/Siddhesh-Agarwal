@@ -5,7 +5,7 @@
 ║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
 ║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
 ║ computer science out there.                               ║ ┣━━ 🔢 Mathematics
-║                                                           ║ ┣━━ 🤖 AI/ML/NLP/Generative AI
+║                                                           ║ ┣━━ 🤖 AI/ML/NLP/GenAI
 ╚═══════════════════════════════════════════════════════════╝ ┗━━ 🔒 Cybersecurity
 ```
 
