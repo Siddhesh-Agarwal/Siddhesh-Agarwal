@@ -1,6 +1,6 @@
 ```plaintext
 ╔════════════════════════ Hey There! ═══════════════════════╗ 😎 Siddhesh Agarwal
-║ I'm a final-year CSE Student from New Delhi, India.       ║ ┣━━ 💻 App/Web development
+║ I'm a hobbyist developer from New Delhi, India.           ║ ┣━━ 💻 App/Web development
 ║                                                           ║ ┃   ┣━━ ⭐ JS/TS, React, Next, Node, Bun
 ║ My areas of interest are AI/ML, LLMs, Backend, Web Dev,   ║ ┃   ┣━━ ⭐ Python, Django, Flask, FastAPI
 ║ Cloud, Cyber Security. Basically, anything related  to    ║ ┃   ┗━━ ⭐ PHP, Laravel
